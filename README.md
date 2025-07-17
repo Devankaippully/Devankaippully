@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Devankaippully
-- 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Hi, I'm Devankaippully 👋
 
-<!---
-Devankaippully/Devankaippully is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+---
+
+## 🚀 About Me
+- **Aspiring Data Scientist** actively seeking new opportunities
+- Strong foundation in Python, MySQL, Machine Learning, and Power BI
+- Passionate about turning data into actionable insights and solving real-world business problems
+
+---
+
+## 💼 Top Skills
+- **Programming:** Python
+- **Data:** MySQL, Data Analysis, Data Visualization
+- **Machine Learning:** Predictive Modeling, Model Evaluation, Feature Engineering
+- **Business Intelligence:** Power BI
+
+---
+
+## 🌟 Highlight Project
+
+### [Customer Churn Prediction Model](https://github.com/Devankaippully/Customer_churn_prediction)
+A comprehensive end-to-end machine learning project that predicts customer churn using advanced analytics and interpretable models.  
+- Data preprocessing, feature engineering, and model selection
+- Result visualization and actionable business recommendations
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/devankaippully)
+
+---
+
+Thank you for visiting my profile!  
+*Let’s connect and explore exciting opportunities together.*
